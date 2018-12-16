@@ -1,4 +1,4 @@
-package week06;
+package week05;
 
 public interface Step {
 //    It has the perform method that receives a furniture.

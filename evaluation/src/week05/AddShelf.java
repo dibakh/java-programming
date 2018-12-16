@@ -1,4 +1,4 @@
-package week06;
+package week05;
 
 public class AddShelf implements Step {
 
