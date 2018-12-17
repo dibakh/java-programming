@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d7f84f-2206-469e-b2ad-9db106027259" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoneyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoneyCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/mainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/nameGatherer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../evaluation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/out/production/evaluation/week05/AddLegs.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/out/production/evaluation/week05/AddShelf.class" beforeDir="false" />
@@ -36,6 +34,11 @@
       <change beforePath="$PROJECT_DIR$/../week06/ex05/MasterCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/MasterCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/ex05/ValidationCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/ValidationCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/ex05/VisaCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/VisaCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week07/ex01/MoneyCollector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week07/ex01/MoneyCollector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week07/ex01/calculatorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week07/ex01/calculatorApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex01/MoneyCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/MoneyCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex01/calculatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex01/calculatorApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,32 +49,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MoneyCollector.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ex01/MoneyCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex01/MoneyCollector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MoneyCalculator.java">
+        <entry file="file://$PROJECT_DIR$/src/ex01/calculatorApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="132">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/calculatorApplication.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex02/mainApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex02/nameGatherer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,6 +120,11 @@
         <option value="$PROJECT_DIR$/src/MoneyCollector.java" />
         <option value="$PROJECT_DIR$/src/MoneyCalculator.java" />
         <option value="$PROJECT_DIR$/src/calculatorApplication.java" />
+        <option value="$PROJECT_DIR$/src/ex01/MoneyCalculator.java" />
+        <option value="$PROJECT_DIR$/src/ex02/mainApplication.java" />
+        <option value="$PROJECT_DIR$/src/ex02/nameGatherer.java" />
+        <option value="$PROJECT_DIR$/src/ex01/MoneyCollector.java" />
+        <option value="$PROJECT_DIR$/src/ex01/calculatorApplication.java" />
       </list>
     </option>
   </component>
@@ -124,6 +155,18 @@
               <item name="week07" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="week07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -132,7 +175,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545042012422" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545044418148" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -191,9 +234,10 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -219,17 +263,60 @@
     <entry file="file://$PROJECT_DIR$/src/MoneyCollector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/calculatorApplication.java">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="74" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+        <state relative-caret-position="105">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex02/nameGatherer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex02/mainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex01/MoneyCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex01/calculatorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex01/MoneyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
