@@ -5,18 +5,14 @@ import java.util.List;
 import java.util.Scanner;
 
 public class NickNameGartherer {
-
-
     private Scanner scanner = new Scanner(System.in);
 
     public List<String> gather() {
 
         return getName();
-
     }
 
     private List<String> getName() {
-
         List<String> nickNames = new ArrayList<>();
 
         System.out.println("enter the name : ");

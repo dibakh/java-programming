@@ -1,5 +1,6 @@
 package ex02;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class MainApplication {
@@ -14,4 +15,5 @@ public class MainApplication {
         System.out.println("Nicknames : " + nickNames);
 
     }
+
 }
