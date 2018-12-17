@@ -11,7 +11,7 @@ public class MoneyCollector {
         Random random=new Random();
         List<Integer> payment=new ArrayList<>();
         for (int friend = 0; friend < 10; friend++) {
-            int paid = random.nextInt(6) + 1;
+            int paid = random.nextInt(5) + 1;
             payment.add(paid);
         }
 

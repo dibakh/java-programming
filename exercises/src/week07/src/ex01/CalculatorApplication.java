@@ -3,7 +3,7 @@ package ex01;
 import java.util.List;
 
 
-public class calculatorApplication {
+public class CalculatorApplication {
     public static void main(String[] args) {
         MoneyCalculator moneyCalculator = new MoneyCalculator();
 
