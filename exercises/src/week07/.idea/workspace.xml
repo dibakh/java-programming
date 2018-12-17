@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d7f84f-2206-469e-b2ad-9db106027259" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex02/NameApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../evaluation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/out/production/evaluation/week05/AddLegs.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/out/production/evaluation/week05/AddShelf.class" beforeDir="false" />
@@ -34,13 +34,8 @@
       <change beforePath="$PROJECT_DIR$/../week06/ex05/ValidationCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/ValidationCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/ex05/VisaCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/VisaCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week07/ex01/MoneyCollector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week07/ex01/MoneyCollector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week07/ex01/calculatorApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week07/ex02/mainApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week07/ex02/nameGatherer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex02/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/MainApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex02/NickNameGartherer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/NickNameGartherer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex02/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/NameConvertor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex02/NickNameCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/NickNameCreator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,12 +45,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex02/MainApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            <state relative-caret-position="162">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex02/NameConvertor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,13 +71,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ex02/MainApplication.java">
+        <entry file="file://$PROJECT_DIR$/src/ex02/NameApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -78,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex02/NickNameGartherer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="150">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -90,10 +94,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex02/NickNameCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="327">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,10 +131,12 @@
         <option value="$PROJECT_DIR$/src/ex02/mainApplication.java" />
         <option value="$PROJECT_DIR$/src/ex01/MoneyCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/ex02/NameGatherer.java" />
-        <option value="$PROJECT_DIR$/src/ex02/NickNameCreator.java" />
-        <option value="$PROJECT_DIR$/src/ex02/MainApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/ex02/NickNameGartherer.java" />
         <option value="$PROJECT_DIR$/src/ex02/MainApplication.java" />
+        <option value="$PROJECT_DIR$/src/ex02/MainApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/ex02/NameApplication.java" />
+        <option value="$PROJECT_DIR$/src/ex02/NickNameCreator.java" />
+        <option value="$PROJECT_DIR$/src/ex02/NameConvertor.java" />
       </list>
     </option>
   </component>
@@ -146,6 +154,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +185,7 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545062515896" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545076796982" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -209,9 +217,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainApplication">
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02.MainApplication" />
+  <component name="RunManager" selected="Application.NameApplication">
+    <configuration name="NameApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.NameApplication" />
+      <module name="week07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameConvertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.NameConvertor" />
       <module name="week07" />
       <extension name="coverage">
         <pattern>
@@ -255,22 +276,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoneyCalculatorTest.checkCalculate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ex01" />
-      <option name="MAIN_CLASS_NAME" value="ex01.MoneyCalculatorTest" />
-      <option name="METHOD_NAME" value="checkCalculate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MoneyCalculatorTest.checkCalculateRandomNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week07" />
       <extension name="coverage">
@@ -289,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Application.NameApplication" />
+        <item itemvalue="Application.NameConvertor" />
         <item itemvalue="JUnit.MainApplicationTest.checkEmptyString" />
         <item itemvalue="JUnit.MainApplicationTest.checkString" />
         <item itemvalue="JUnit.MoneyCalculatorTest.checkCalculateRandomNumbers" />
-        <item itemvalue="JUnit.MoneyCalculatorTest.checkCalculate" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545059964937</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <created>1545062503785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545062503785</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -367,21 +379,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980047" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25379092" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32792208" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -404,23 +417,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MoneyCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MoneyCollector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoneyCalculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/MoneyCollector.java" />
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/System.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -464,10 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex02/MainApplicationTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ex02/NickNameGartherer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -476,31 +474,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex02/NickNameCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="327">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex02/NameConvertor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex02/NickNameGartherer.java">
+    <entry file="file://$PROJECT_DIR$/src/ex02/MainApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="162">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex02/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/ex02/NameApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>

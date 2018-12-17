@@ -5,10 +5,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class NickNameCreator {
+    private List<String> nickNames = new ArrayList<>();
 
     public List<String> creator(List<String> names) {
-
-        List<String> nickNames = new ArrayList<>();
 
         for (String name : names) {
             int lengthOfName = name.length();
@@ -20,9 +19,13 @@ public class NickNameCreator {
                 String nickName = name.substring(0, lengthOfName / 2);
                 nickNames.add(nickName);
             }
-
         }
-        return nickNames;
+
+        return  nickNames;
+    }
+
+    public void display(List<String> nickNames) {
+        System.out.println("nickName : " + nickNames);
     }
 }
 

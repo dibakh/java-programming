@@ -3,16 +3,17 @@ package ex02;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainApplication {
-    public static void main(String[] args) {
+public class NameConvertor {
+    public void convertNameToNickName() {
 
         NickNameGartherer nickNameGatherer = new NickNameGartherer();
         NickNameCreator nickNameCreator = new NickNameCreator();
 
         List<String> names = nickNameGatherer.gather();
         List<String> nickNames = nickNameCreator.creator(names);
+        nickNameCreator.display(nickNames);
 
-        System.out.println("Nicknames : " + nickNames);
+
 
     }
 
