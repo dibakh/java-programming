@@ -10,7 +10,7 @@ class MainApplicationTest {
 
     @Test
     void checkString() {
-        NickNameGartherer nameGatherer = new NickNameGartherer();
+        NameGartherer nameGatherer = new NameGartherer();
         NickNameCreator nickNameCreator = new NickNameCreator();
 
         List<String> names = Arrays.asList("House", "tree", "Theatre", "somewhere", "bottle");
@@ -24,7 +24,7 @@ class MainApplicationTest {
 
     @Test
     void checkEmptyString() {
-        NickNameGartherer nameGatherer = new NickNameGartherer();
+        NameGartherer nameGatherer = new NameGartherer();
         NickNameCreator nickNameCreator = new NickNameCreator();
 
         List<String> names = Arrays.asList("");

@@ -1,12 +1,11 @@
 package ex02;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class NameConvertor {
     public void convertNameToNickName() {
 
-        NickNameGartherer nickNameGatherer = new NickNameGartherer();
+        NameGartherer nickNameGatherer = new NameGartherer();
         NickNameCreator nickNameCreator = new NickNameCreator();
 
         List<String> names = nickNameGatherer.gather();

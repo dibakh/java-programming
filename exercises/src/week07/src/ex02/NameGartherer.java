@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class NickNameGartherer {
+public class NameGartherer {
     private Scanner scanner = new Scanner(System.in);
 
     public List<String> gather() {
