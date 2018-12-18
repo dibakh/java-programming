@@ -22,7 +22,7 @@ class CheckPalindromeTest {
         String word = "";
         boolean answer = checkPalindrome.check(word);
 
-        Assertions.assertEquals(false,answer);
+        Assertions.assertFalse(answer);
     }
 
     @Test
@@ -32,6 +32,6 @@ class CheckPalindromeTest {
         String word = "                             ";
         boolean answer = checkPalindrome.check(word);
 
-        Assertions.assertEquals(false,answer);
+        Assertions.assertFalse(answer);
     }
 }

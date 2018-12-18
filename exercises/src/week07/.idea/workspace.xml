@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d7f84f-2206-469e-b2ad-9db106027259" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex05/CheckPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex05/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex06/SecretHandshakesApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../evaluation/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/out/production/evaluation/week05/AddLegs.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../evaluation/out/production/evaluation/week05/AddShelf.class" beforeDir="false" />
@@ -35,8 +35,13 @@
       <change beforePath="$PROJECT_DIR$/../week06/ex05/MasterCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/MasterCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/ex05/ValidationCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/ValidationCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/ex05/VisaCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ex05/VisaCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex05/PalindromeApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/PalindromeApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week07/META-INF/week07.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week07/ex02/MainApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week07/ex02/MainApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week07/ex05/CheckPalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week07/ex05/CheckPalindromeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex02/MainApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex02/MainApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,10 +53,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex03/BiggestNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="237">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,45 +65,61 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex04/NumberSplitter.java">
+        <entry file="file://$PROJECT_DIR$/src/ex02/NameApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex02/MainApplicationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#972#973#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex04/NumberSplitterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex05/PalindromeApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
               <folding>
-                <element signature="e#95#96#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ex05/CheckPalindrome.java">
+        <entry file="file://$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="210">
+              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ex06/SecretHandshakesApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,31 +128,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java">
+        <entry file="file://$PROJECT_DIR$/src/ex02/NameGartherer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex05/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ex04/Number.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,12 +151,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ex03/Collection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="345">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#907#908#0" expanded="true" />
-                <element signature="e#943#944#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/ex02/NameGatherer.java" />
         <option value="$PROJECT_DIR$/src/ex02/NickNameGartherer.java" />
         <option value="$PROJECT_DIR$/src/ex02/MainApplication.java" />
-        <option value="$PROJECT_DIR$/src/ex02/MainApplicationTest.java" />
         <option value="$PROJECT_DIR$/src/ex02/NickNameCreator.java" />
         <option value="$PROJECT_DIR$/src/ex02/NameConvertor.java" />
         <option value="$PROJECT_DIR$/src/ex02/NameApplication.java" />
@@ -207,8 +204,12 @@
         <option value="$PROJECT_DIR$/src/ex05/checkPalindrome.java" />
         <option value="$PROJECT_DIR$/src/ex05/checkPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/ex05/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java" />
         <option value="$PROJECT_DIR$/src/ex05/CheckPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java" />
+        <option value="$PROJECT_DIR$/src/ex02/MainApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/ex06/SecretHandshakesApplication.java" />
+        <option value="$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslator.java" />
+        <option value="$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslatorTest.java" />
       </list>
     </option>
   </component>
@@ -226,8 +227,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,7 +245,19 @@
               <item name="week07" type="b2602c69:ProjectViewProjectNode" />
               <item name="week07" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ex05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="week07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ex06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,24 +270,26 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545088314570" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545135807143" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/junit-jupiter-api-5.3.2.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ex06" />
       <recent name="ex05" />
       <recent name="ex04" />
       <recent name="ex03" />
       <recent name="ex02" />
-      <recent name="ex01" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -292,13 +307,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CheckPalindromeTest.checkSpaceText">
-    <configuration name="PalindromeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex05.PalindromeApplication" />
+  <component name="RunManager" selected="JUnit.SecretHandshakeMovesTranslatorTest">
+    <configuration name="SecretHandshakesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex06.SecretHandshakesApplication" />
       <module name="week07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex05.*" />
+          <option name="PATTERN" value="ex06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,23 +321,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPalindromeTest.checkEmptyText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="week07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ex05" />
-      <option name="MAIN_CLASS_NAME" value="ex05.CheckPalindromeTest" />
-      <option name="METHOD_NAME" value="checkEmptyText" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckPalindromeTest.checkLongText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week07" />
       <extension name="coverage">
         <pattern>
@@ -332,39 +331,51 @@
       </extension>
       <option name="PACKAGE_NAME" value="ex05" />
       <option name="MAIN_CLASS_NAME" value="ex05.CheckPalindromeTest" />
-      <option name="METHOD_NAME" value="checkLongText" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplicationTest.checkEmptyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ex02" />
+      <option name="MAIN_CLASS_NAME" value="ex02.MainApplicationTest" />
+      <option name="METHOD_NAME" value="checkEmptyString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckPalindromeTest.checkSpaceText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SecretHandshakeMovesTranslatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex05.*" />
+          <option name="PATTERN" value="ex06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ex05" />
-      <option name="MAIN_CLASS_NAME" value="ex05.CheckPalindromeTest" />
-      <option name="METHOD_NAME" value="checkSpaceText" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ex06" />
+      <option name="MAIN_CLASS_NAME" value="ex06.SecretHandshakeMovesTranslatorTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberSplitterTest.sixDigitNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SecretHandshakeMovesTranslatorTest.translatePrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="week07" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex04.*" />
+          <option name="PATTERN" value="ex06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ex04" />
-      <option name="MAIN_CLASS_NAME" value="ex04.NumberSplitterTest" />
-      <option name="METHOD_NAME" value="sixDigitNumber" />
+      <option name="PACKAGE_NAME" value="ex06" />
+      <option name="MAIN_CLASS_NAME" value="ex06.SecretHandshakeMovesTranslatorTest" />
+      <option name="METHOD_NAME" value="translatePrice" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -372,11 +383,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CheckPalindromeTest.checkSpaceText" />
-        <item itemvalue="JUnit.CheckPalindromeTest.checkEmptyText" />
-        <item itemvalue="JUnit.CheckPalindromeTest.checkLongText" />
-        <item itemvalue="Application.PalindromeApplication" />
-        <item itemvalue="JUnit.NumberSplitterTest.sixDigitNumber" />
+        <item itemvalue="JUnit.SecretHandshakeMovesTranslatorTest" />
+        <item itemvalue="JUnit.SecretHandshakeMovesTranslatorTest.translatePrice" />
+        <item itemvalue="Application.SecretHandshakesApplication" />
+        <item itemvalue="JUnit.MainApplicationTest.checkEmptyString" />
+        <item itemvalue="JUnit.CheckPalindromeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -390,6 +401,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545040316671</updated>
+      <workItem from="1545132775277" duration="2786000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1545048719640</created>
@@ -430,24 +442,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CollectionTest_findSmallestInCollection - 2018.12.17 at 21h 41m 02s.xml">
-      <configuration name="CollectionTest.findSmallestInCollection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTest_findBiggestInCollection - 2018.12.17 at 21h 41m 07s.xml">
-      <configuration name="CollectionTest.findBiggestInCollection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CollectionTest_findBiggestInCollection - 2018.12.17 at 22h 59m 55s.xml">
-      <configuration name="CollectionTest.findBiggestInCollection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberSplitterTest_fourDigitNumber - 2018.12.17 at 23h 08m 05s.xml">
-      <configuration name="NumberSplitterTest.fourDigitNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberSplitterTest_sixDigitNumber - 2018.12.17 at 23h 09m 31s.xml">
-      <configuration name="NumberSplitterTest.sixDigitNumber" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CheckPalindromeTest_checkLongText - 2018.12.18 at 00h 06m 44s.xml">
-      <configuration name="CheckPalindromeTest.checkLongText" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CheckPalindromeTest_checkLongText - 2018.12.18 at 00h 07m 32s.xml">
       <configuration name="CheckPalindromeTest.checkLongText" configurationId="JUnit" />
     </history-entry>
@@ -460,6 +454,27 @@
     <history-entry file="CheckPalindromeTest_checkEmptyText - 2018.12.18 at 00h 09m 01s.xml">
       <configuration name="CheckPalindromeTest.checkEmptyText" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CheckPalindromeTest_checkEmptyText - 2018.12.18 at 00h 10m 05s.xml">
+      <configuration name="CheckPalindromeTest.checkEmptyText" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckPalindromeTest_checkEmptyText - 2018.12.18 at 00h 10m 22s.xml">
+      <configuration name="CheckPalindromeTest.checkEmptyText" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckPalindromeTest_checkEmptyText - 2018.12.18 at 00h 10m 39s.xml">
+      <configuration name="CheckPalindromeTest.checkEmptyText" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckPalindromeTest_checkSpaceText - 2018.12.18 at 00h 11m 09s.xml">
+      <configuration name="CheckPalindromeTest.checkSpaceText" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckPalindromeTest - 2018.12.18 at 12h 36m 05s.xml">
+      <configuration name="CheckPalindromeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainApplicationTest_checkEmptyString - 2018.12.18 at 12h 49m 02s.xml">
+      <configuration name="MainApplicationTest.checkEmptyString" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -470,19 +485,22 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25379092" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.27134877" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32792208" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32899022" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -492,6 +510,9 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
@@ -546,16 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex02/NameGartherer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex02/NickNameCreator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
@@ -575,23 +586,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex02/MainApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex02/NameApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -619,28 +613,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex03/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex03/BiggestNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Scanner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -652,9 +624,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex03/BiggestNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex04/NumberSplitter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#972#973#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex04/NumberSplitterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex05/PalindromeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex05/CheckPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex05/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex04/Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
+        <state relative-caret-position="210">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -669,59 +698,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex04/NumberSplitter.java">
+    <entry file="file://$PROJECT_DIR$/src/ex03/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex04/NumberSplitterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex05/PalindromeApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#95#96#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex05/CheckPalindromeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="237">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex05/Palindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/ex02/NameApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex05/CheckPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/ex02/NameGartherer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex02/MainApplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex06/SecretHandshakesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex06/SecretHandshakeMovesTranslatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -765,7 +819,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>1.8.0_191</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
