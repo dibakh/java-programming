@@ -31,17 +31,18 @@ public class ProduceStatistics {
         Map.Entry<String, Integer> department = sorted.get(0);
         String departmentName = department.getKey();
 
-
         return departmentName;
     }
 
 
-    public String findHighestSalary(List<Employee> employees) {
+    public void findHighestSalary(List<Employee> employees) {
 
         Collections.sort(employees, Comparator.comparing(Employee::getSalary));
         Employee employee = employees.get(0);
 
-        return employee.getName();
+        System.out.println("Highest salary employee: " + employee.getName() + "from " + employee.getDepartment() + " with " + employee.getSalary() + "€.");
+
+
     }
 }
 

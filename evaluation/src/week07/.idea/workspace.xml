@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/PaymentAutomation.java" line="25" />
+    <bookmark url="file://$PROJECT_DIR$/src/PaymentAutomation.java" line="28" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e83f9f3-d6a0-47b3-ac6c-ef7a9ef32639" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountancyApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataGatherer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaymentAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProduceStatistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/employees.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex07/TransportApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex07/Transporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/RomanApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/RomanNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../out/production/evaluation/week05/AddLegs.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../out/production/evaluation/week05/AddShelf.class" beforeDir="false" />
@@ -39,6 +25,10 @@
       <change beforePath="$PROJECT_DIR$/../week06/AutomaticCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/AutomaticCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../week06/ManualCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week06/ManualCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PaymentAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PaymentAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProduceStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduceStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProduceStatisticsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProduceStatisticsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../exercises/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../exercises/exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/exercises.iml" afterDir="false" />
@@ -56,6 +46,11 @@
       <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex02/MainApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex02/MainApplicationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex04/NumberSplitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex04/NumberSplitter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex06/SecretHandshakesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex06/SecretHandshakesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex07/TransportApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex07/TransportApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex07/Transporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex07/Transporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/RomanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/RomanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/RomanNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/src/week07/src/ex08/RomanNumbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PaymentAutomation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="195">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -120,8 +115,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ProduceStatistics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="252">
+              <caret line="42" column="141" selection-start-line="42" selection-start-column="141" selection-end-line="42" selection-end-column="141" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProduceStatisticsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FileReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="192">
               <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -149,6 +156,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -164,8 +172,9 @@
         <option value="$PROJECT_DIR$/src/EmploeesRecord.java" />
         <option value="$PROJECT_DIR$/src/Employee.java" />
         <option value="$PROJECT_DIR$/src/DataGatherer.java" />
-        <option value="$PROJECT_DIR$/src/ProduceStatistics.java" />
+        <option value="$PROJECT_DIR$/src/ProduceStatisticsTest.java" />
         <option value="$PROJECT_DIR$/src/PaymentAutomation.java" />
+        <option value="$PROJECT_DIR$/src/ProduceStatistics.java" />
       </list>
     </option>
   </component>
@@ -210,7 +219,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545212956914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545213788725" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -223,7 +232,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -266,12 +281,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545206292595</updated>
-      <workItem from="1545206296471" duration="5853000" />
+      <workItem from="1545206296471" duration="6886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5853000" />
+    <option name="totallyTimeSpent" value="6886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -339,16 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataGatherer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -361,17 +366,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProduceStatistics.java">
+    <entry file="file://$PROJECT_DIR$/src/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="192">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PaymentAutomation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="195">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProduceStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="42" column="141" selection-start-line="42" selection-start-column="141" selection-end-line="42" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProduceStatisticsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -452,6 +477,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>junit-jupiter-api-5.3.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
