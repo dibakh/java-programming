@@ -6,22 +6,22 @@ import org.testng.Assert;
 import static org.junit.jupiter.api.Assertions.*;
 
 class PowerLevelScouterTest {
+    private String name = "Susana";
+    private PowerLevelScouter powerLevelScouter = new PowerLevelScouter ( );
 
     @Test
     void scout() {
-        PowerLevelScouter powerLevelScouter = new PowerLevelScouter ( );
-        Integer answer = powerLevelScouter.scout ("Diba");
-        Integer expected=368;
+        Integer answer = powerLevelScouter.scout (name);
+        Integer expected = 368;
 
-        Assert.assertEquals (expected,answer);
+        Assert.assertEquals (expected, answer);
     }
 
     @Test
     void scoutEnhanced() {
-        PowerLevelScouter powerLevelScouter = new PowerLevelScouter ( );
-        Integer answer = powerLevelScouter.scoutEnhanced ("Diba");
-        Integer expected=400;
+        Integer answer = powerLevelScouter.scoutEnhanced (name);
+        Integer expected = 400;
 
-        Assert.assertEquals (expected,answer);
+        Assert.assertEquals (expected, answer);
     }
 }
