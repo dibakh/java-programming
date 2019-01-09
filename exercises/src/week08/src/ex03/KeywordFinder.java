@@ -21,14 +21,6 @@ public class KeywordFinder {
     private List<String> getSplitedWords(String sentence) {
         String[] split = sentence.split (" ");
         words = Arrays.asList (split);
-
-//        strings.forEach (words::add);
-//        strings.forEach (item -> words.add (item));
-//        strings.forEach (words::add);
-//        words.addAll (strings);
-
-//        strings.forEach (System.out::println);
-//        strings.forEach (s -> System.out.println (s ));
         return words;
     }
 
